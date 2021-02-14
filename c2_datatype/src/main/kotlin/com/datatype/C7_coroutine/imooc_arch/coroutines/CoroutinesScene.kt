@@ -4,10 +4,18 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
+import java.io.FileInputStream
+import java.io.FileOutputStream
+import java.io.InputStream
+import java.io.OutputStream
 
 object CoroutinesScene {
     @JvmStatic
     fun main(args: Array<String>) {
+//        val os=FileOutputStream("")
+//        val ins: InputStream =FileInputStream("")
+//        ins.
+
         startScene1()
     }
 
@@ -15,7 +23,7 @@ object CoroutinesScene {
      * 依次启动3个子线程，并且同步的方式拿到返回值
      */
     fun startScene1() {
-        GlobalScope.launch() {
+        GlobalScope.launch(Dispatchers.IO) {
             println("Coroutine start")
             val res1 = request1()
             val res2 = request2(res1)
