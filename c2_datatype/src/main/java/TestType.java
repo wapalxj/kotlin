@@ -12,9 +12,9 @@ public class TestType {
         Type returnType0 = methods[0].getGenericReturnType();
         Type returnType1 = methods[1].getGenericReturnType();
         Type returnType2 = methods[2].getGenericReturnType();
-        System.out.println(returnType0+"=====");
-        System.out.println(returnType1+"====="+((ParameterizedType)returnType1).getActualTypeArguments()[0]);
-        System.out.println(returnType2+"====="+((ParameterizedType)returnType2).getActualTypeArguments()[0]);
+        System.out.println(returnType0+"=======");
+        System.out.println(returnType1+"========"+((ParameterizedType)returnType1).getActualTypeArguments()[0]);
+        System.out.println(returnType2+"========"+((ParameterizedType)returnType2).getActualTypeArguments()[0]);
     }
 
 
