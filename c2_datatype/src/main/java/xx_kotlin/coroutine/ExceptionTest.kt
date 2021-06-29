@@ -6,9 +6,9 @@ import java.io.FileInputStream
 
 fun main() {
 //    test1()
-//    test01()
+    test01()
 //    test02()
-    test03()
+//    test03()
 
 
     val scope=MainScope()//主从作用域
@@ -150,6 +150,7 @@ fun test1() = runBlocking {
     try {
         deferred.await()
     } catch (e: Exception) {
+        log("test1 Exception")
         e.printStackTrace()
     }
 
@@ -174,6 +175,15 @@ fun test0() = runBlocking {
 }
 
 fun readFile() {
+//    try {
+//        val fis = FileInputStream(File(""))
+//        fis.read()
+//    }catch (e:java.lang.Exception){
+//        log("readFile Exception")
+//        e.printStackTrace()
+//    }
+
+
     val fis = FileInputStream(File(""))
     fis.read()
 }
