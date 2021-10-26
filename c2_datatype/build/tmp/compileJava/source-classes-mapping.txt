@@ -46,6 +46,8 @@ xx/rw/GoodsService.java
  xx.rw.GoodsService
 test/CharJsonDeserializer.java
  test.CharJsonDeserializer
+test/chart/Test111.java
+ test.chart.Test111
 xx/thread_05_/AQS/ReenterSelfLock.java
  xx.thread_05_.AQS.ReenterSelfLock
  xx.thread_05_.AQS.ReenterSelfLock$1

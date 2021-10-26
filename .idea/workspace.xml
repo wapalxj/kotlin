@@ -118,7 +118,7 @@
       <recent name="com.datatype.C10_java_and_kotlin.C10_6_BOX" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Parent">
+  <component name="RunManager" selected="Kotlin.DigitUtilsKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -171,16 +171,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisposeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.DisposeKt" />
+    <configuration name="DigitUtilsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.followme.basiclib.utils.DigitUtilsKt" />
       <module name="c2_datatype.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vero.kotlin.HelloWorldKt" />
-      <module name="vnix.main" />
+    <configuration name="DisposeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.DisposeKt" />
+      <module name="c2_datatype.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -213,19 +213,19 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.com.datatype.C3.C3_6_expression.C3_6_2_fenzhiKt" />
-      <item itemvalue="Kotlin.HelloWorldKt" />
       <item itemvalue="Kotlin.DisposeKt" />
       <item itemvalue="Application.Test_hex" />
       <item itemvalue="Application.TestType" />
       <item itemvalue="Application.Parent" />
+      <item itemvalue="Kotlin.DigitUtilsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DigitUtilsKt" />
         <item itemvalue="Application.Parent" />
         <item itemvalue="Application.TestType" />
         <item itemvalue="Application.Test_hex" />
         <item itemvalue="Kotlin.DisposeKt" />
-        <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
     </recent_temporary>
   </component>
