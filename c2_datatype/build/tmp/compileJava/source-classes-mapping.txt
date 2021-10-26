@@ -22,6 +22,8 @@ com/datatype/C10_java_and_kotlin/C10_3_pattern/Main.java
  com.datatype.C10_java_and_kotlin.C10_3_pattern.Main
 com/datatype/C4_oop/C4_5_object/ObjJava.java
  com.datatype.C4_oop.C4_5_object.ObjJava
+test/CharAdapter.java
+ test.CharAdapter
 com/datatype/C4_oop/C4_4_visibility/Visibility.java
  com.datatype.C4_oop.C4_4_visibility.Visibility
 com/datatype/C10_java_and_kotlin/C10_6_BOX/BoxIf1.java
@@ -42,10 +44,14 @@ xx_kotlin/kt/TestKt.java
  xx_kotlin.kt.TestKt
 xx/rw/GoodsService.java
  xx.rw.GoodsService
+test/CharJsonDeserializer.java
+ test.CharJsonDeserializer
 xx/thread_05_/AQS/ReenterSelfLock.java
  xx.thread_05_.AQS.ReenterSelfLock
  xx.thread_05_.AQS.ReenterSelfLock$1
  xx.thread_05_.AQS.ReenterSelfLock$Sync
+test/Parent.java
+ test.Parent
 xx/rw/BusiApp.java
  xx.rw.BusiApp
  xx.rw.BusiApp$GetThread
