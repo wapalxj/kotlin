@@ -62,6 +62,8 @@ xx/rw/UseSyn.java
  xx.rw.UseSyn
 com/datatype/C10_java_and_kotlin/C10_6_BOX/BoxIf2.java
  com.datatype.C10_java_and_kotlin.C10_6_BOX.BoxIf2
+test/followme/DoubleUtil.java
+ test.followme.DoubleUtil
 xx_kotlin/expand/JavaTestExpand.java
  xx_kotlin.expand.JavaTestExpand
 xx_kotlin/generic/TestOutIn.java

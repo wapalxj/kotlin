@@ -10,7 +10,14 @@ fun main() {
 //    println(a.digits())
 //    println(5.0123456.digits())
 //    println("5.11111111111".digits())
-    println(getStringByDigits(5.0,0))
+//    println(getStringByDigits(5.0,0))
+
+    val list= listOf(0,5,2,7,9,6,8)
+    val l2=list.sortedDescending()
+//    println(list)
+//    println(l2)
+    println("1.0".toInt())
+
 }
 
 fun Double?.digits(maxDigits: Int = 5): Int {
