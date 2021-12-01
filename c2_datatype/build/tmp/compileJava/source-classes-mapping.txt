@@ -2,6 +2,8 @@ TestType.java
  SampleClass
  TestType
  Wrapper
+xx_kotlin/generic/TestOutIn.java
+ xx_kotlin.generic.TestOutIn
 com/datatype/C2/Child.java
  com.datatype.C2.Child
 com/datatype/C4_oop/C4_7_overload/UserKotlinOverloadInJava.java
@@ -66,5 +68,9 @@ test/followme/DoubleUtil.java
  test.followme.DoubleUtil
 xx_kotlin/expand/JavaTestExpand.java
  xx_kotlin.expand.JavaTestExpand
-xx_kotlin/generic/TestOutIn.java
- xx_kotlin.generic.TestOutIn
+xx/c1_5_thread/intterupt/SynchronizedBlocked.java
+ xx.c1_5_thread.intterupt.SynchronizedBlocked
+ xx.c1_5_thread.intterupt.SynchronizedBlocked$1
+xx/c1_5_thread/intterupt/SynchronizedBlocked_wait.java
+ xx.c1_5_thread.intterupt.SynchronizedBlocked_wait
+ xx.c1_5_thread.intterupt.SynchronizedBlocked_wait$1
