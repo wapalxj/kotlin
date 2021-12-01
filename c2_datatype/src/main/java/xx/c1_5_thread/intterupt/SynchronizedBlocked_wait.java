@@ -6,8 +6,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * wait可响应中断
  * wait状态下执行interrupt()
- *  1.如果能拿到锁，则立即响应中断
- *  2.锁被别的线程拿了，则等待被唤醒后立即响应中断
+ *  1.如果能拿到锁，则立即响应中断,抛出异常
+ *  2.锁被别的线程拿了，则等待被唤醒后立即响应中断,抛出异常
  */
 public class SynchronizedBlocked_wait implements Runnable {
 
