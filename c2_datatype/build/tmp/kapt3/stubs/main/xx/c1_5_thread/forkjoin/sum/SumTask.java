@@ -8,7 +8,7 @@ public final class SumTask extends java.util.concurrent.RecursiveTask<java.lang.
     private final int[] src = null;
     private final int fromIndex = 0;
     private final int toIndex = 0;
-    public static final int THRESHOLD = 4000000;
+    public static final int THRESHOLD = 400;
     public static final xx.c1_5_thread.forkjoin.sum.SumTask.Companion Companion = null;
     
     @org.jetbrains.annotations.NotNull()

@@ -8,17 +8,17 @@ class SumTask(val src: IntArray = intArrayOf(),
               val toIndex: Int = 0) : RecursiveTask<Long>() {
 
     companion object {
-        //阈值
+        //阈值,拆分的最小长度
         const val THRESHOLD = MakeArray.ARRAY_LENGTH / 10
     }
 
     override fun compute(): Long {
-        if (toIndex - fromIndex < THRESHOLD) {
-//            println("from index =$fromIndex,toIndex=${toIndex}")
-
+        if (toIndex - fromIndex < THRESHOLD) {//最小任务，进行计算
+//            println("from index =$fromIndex,toIndex=${toIndex}====${Thread.currentThread().name}")
             var count = 0L
             for (index in fromIndex..toIndex) {
-//                MakeArray.ms(1)
+                //添加休眠，和单线程差距更大
+                MakeArray.ms(1)
                 count += src[index]
             }
             return count
