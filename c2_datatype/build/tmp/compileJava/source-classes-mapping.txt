@@ -1,3 +1,5 @@
+xx/c1_16_gson/oldcode/gson/gson3/JsonWriterTest.java
+ xx.c1_16_gson.oldcode.gson.gson3.JsonWriterTest
 TestType.java
  SampleClass
  TestType
@@ -5,72 +7,283 @@ TestType.java
 xx/c1_5_thread/intterupt/SynchronizedBlocked.java
  xx.c1_5_thread.intterupt.SynchronizedBlocked
  xx.c1_5_thread.intterupt.SynchronizedBlocked$1
-com/datatype/C2/Child.java
- com.datatype.C2.Child
-com/datatype/C4_oop/C4_7_overload/UserKotlinOverloadInJava.java
- com.datatype.C4_oop.C4_7_overload.UserKotlinOverloadInJava
-xx/rw/GoodsInfo.java
- xx.rw.GoodsInfo
-xx/SleepTools.java
- xx.SleepTools
 com/datatype/C4_oop/C4_6_static/UseKotlinStaticInJava.java
  com.datatype.C4_oop.C4_6_static.UseKotlinStaticInJava
 com/datatype/C10_java_and_kotlin/C10_2_SAM/SAMInJava.java
  com.datatype.C10_java_and_kotlin.C10_2_SAM.SAMInJava
-xx/thread_05_/AQS/SelfLock.java
- xx.thread_05_.AQS.SelfLock
- xx.thread_05_.AQS.SelfLock$1
- xx.thread_05_.AQS.SelfLock$Sync
 com/datatype/C10_java_and_kotlin/C10_3_pattern/Main.java
  com.datatype.C10_java_and_kotlin.C10_3_pattern.Main
-com/datatype/C4_oop/C4_5_object/ObjJava.java
- com.datatype.C4_oop.C4_5_object.ObjJava
-test/CharAdapter.java
- test.CharAdapter
-com/datatype/C4_oop/C4_4_visibility/Visibility.java
- com.datatype.C4_oop.C4_4_visibility.Visibility
+xx/c1_1_generic_reflect/com/enjoy/reflect/type/gson/Deserialize.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.gson.Deserialize
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.gson.Deserialize$1
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.gson.Deserialize$ChildTypeRefrence
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.gson.Deserialize$Data
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.gson.Deserialize$Response
+xx/com/zero/serializabledemo/myjson/JSONParser.java
+ xx.com.zero.serializabledemo.myjson.JSONParser
 com/datatype/C10_java_and_kotlin/C10_6_BOX/BoxIf1.java
  com.datatype.C10_java_and_kotlin.C10_6_BOX.BoxIf1
-com/datatype/C2/Parent.java
- com.datatype.C2.Parent
-com/datatype/C4_oop/C4_11_innerClass/InnerClassJava.java
- com.datatype.C4_oop.C4_11_innerClass.InnerClassJava
- com.datatype.C4_oop.C4_11_innerClass.InnerClassJava$Inner
+xx/com/zero/serializabledemo/json/Student.java
+ xx.com.zero.serializabledemo.json.Student
+xx/c1_16_gson/oldcode/gson/gson/type/gson.java
+ xx.c1_16_gson.oldcode.gson.gson.type.gson
+ xx.c1_16_gson.oldcode.gson.gson.type.gson$1
+ xx.c1_16_gson.oldcode.gson.gson.type.gson$2
+ xx.c1_16_gson.oldcode.gson.gson.type.gson$TypeWrapper
+xx/c1_1_generic_reflect/com/enjoy/reflect/type/wildcardType/TestType.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.wildcardType.TestType
+xx/com/zero/serializabledemo/gson/GsonError1.java
+ xx.com.zero.serializabledemo.gson.GsonError1
+ xx.com.zero.serializabledemo.gson.GsonError1$AuthorDeserializer
+ xx.com.zero.serializabledemo.gson.GsonError1$AuthorsBean
+ xx.com.zero.serializabledemo.gson.GsonError1$GsonError1Deserializer
+xx/com/zero/serializabledemo/json/GsonTest.java
+ xx.com.zero.serializabledemo.json.GsonTest
+ xx.com.zero.serializabledemo.json.GsonTest$1
+ xx.com.zero.serializabledemo.json.GsonTest$2
+ xx.com.zero.serializabledemo.json.GsonTest$GirlParameterizedType
+ xx.com.zero.serializabledemo.json.GsonTest$GsonBean
 xx/thread_05_/AQS/TestReenterSelfLock.java
  xx.thread_05_.AQS.TestReenterSelfLock
  xx.thread_05_.AQS.TestReenterSelfLock$1Worker
-com/datatype/C3/C3_4_setter_getter/JavaA.java
- com.datatype.C3.C3_4_setter_getter.JavaA
-com/datatype/C4_oop/C4_8_extend/useExtendsInJava.java
- com.datatype.C4_oop.C4_8_extend.useExtendsInJava
-xx/c1_5_thread/intterupt/SynchronizedBlocked_wait.java
- xx.c1_5_thread.intterupt.SynchronizedBlocked_wait
- xx.c1_5_thread.intterupt.SynchronizedBlocked_wait$1
+xx/c1_16_gson/oldcode/gson/gson3/filter/ModifierSample.java
+ xx.c1_16_gson.oldcode.gson.gson3.filter.ModifierSample
+xx/c1_16_gson/oldcode/gson/gson3/WriterNullTest.java
+ xx.c1_16_gson.oldcode.gson.gson3.WriterNullTest
+xx/c1_1_generic_reflect/com/enjoy/reflect/type/typeVariable/TestType.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.typeVariable.TestType
 xx_kotlin/kt/TestKt.java
  xx_kotlin.kt.TestKt
-xx/rw/GoodsService.java
- xx.rw.GoodsService
+xx/c1_1_generic_reflect/ReflectTest.java
+ xx.c1_1_generic_reflect.ReflectTest
+ xx.c1_1_generic_reflect.ReflectTest$1
+ xx.c1_1_generic_reflect.ReflectTest$2
+ xx.c1_1_generic_reflect.ReflectTest$Response
 test/CharJsonDeserializer.java
  test.CharJsonDeserializer
+xx/c1_1_generic_reflect/com/enjoy/reflect/type/gson/a/TypeRefrence.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.gson.a.TypeRefrence
+xx/com/zero/serializabledemo/json/GsonTest2.java
+ xx.com.zero.serializabledemo.json.GsonTest2
+ xx.com.zero.serializabledemo.json.GsonTest2$GsonBean
+ xx.com.zero.serializabledemo.json.GsonTest2$GsonBean1
 test/chart/Test111.java
  test.chart.Test111
+xx/com/zero/serializabledemo/json/RawCollectionsExample.java
+ xx.com.zero.serializabledemo.json.RawCollectionsExample
+ xx.com.zero.serializabledemo.json.RawCollectionsExample$1
+ xx.com.zero.serializabledemo.json.RawCollectionsExample$Event
 xx/thread_05_/AQS/ReenterSelfLock.java
  xx.thread_05_.AQS.ReenterSelfLock
  xx.thread_05_.AQS.ReenterSelfLock$1
  xx.thread_05_.AQS.ReenterSelfLock$Sync
+com/datatype/C10_java_and_kotlin/C10_6_BOX/BoxIf2.java
+ com.datatype.C10_java_and_kotlin.C10_6_BOX.BoxIf2
+xx/c1_1_generic_reflect/TestType.java
+ xx.c1_1_generic_reflect.TestType
+ xx.c1_1_generic_reflect.TestType$SampleClass
+ xx.c1_1_generic_reflect.TestType$Wrapper
+xx/com/zero/serializabledemo/serializable/Course3.java
+ xx.com.zero.serializabledemo.serializable.Course3
+com/datatype/C4_oop/C4_7_overload/UserKotlinOverloadInJava.java
+ com.datatype.C4_oop.C4_7_overload.UserKotlinOverloadInJava
+xx/com/zero/serializabledemo/json/JacksonTest.java
+ xx.com.zero.serializabledemo.json.JacksonTest
+xx/com/zero/serializabledemo/gson/GsonTest.java
+ xx.com.zero.serializabledemo.gson.GsonTest
+ xx.com.zero.serializabledemo.gson.GsonTest$GsonBean
+xx/c1_16_gson/oldcode/gson/gson2/serialiser/IntegerJsonDeserializer.java
+ xx.c1_16_gson.oldcode.gson.gson2.serialiser.IntegerJsonDeserializer
+xx/com/zero/serializabledemo/json/HomeBannerModel.java
+ xx.com.zero.serializabledemo.json.HomeBannerModel
+xx/c1_16_gson/oldcode/gson/gson2/bean/BigBook.java
+ xx.c1_16_gson.oldcode.gson.gson2.bean.BigBook
+xx/c1_16_gson/oldcode/gson/gson/testGson/Test.java
+ xx.c1_16_gson.oldcode.gson.gson.testGson.Test
+xx/com/zero/serializabledemo/myjson/exception/JsonParseException.java
+ xx.com.zero.serializabledemo.myjson.exception.JsonParseException
+xx/c1_1_generic_reflect/com/enjoy/reflect/MyClass.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.MyClass
+xx/com/zero/serializabledemo/serializable/Student2.java
+ xx.com.zero.serializabledemo.serializable.Student2
+xx/com/zero/serializabledemo/myjson/exception/JsonTypeException.java
+ xx.com.zero.serializabledemo.myjson.exception.JsonTypeException
+xx/com/zero/serializabledemo/myjson/model/JsonObject.java
+ xx.com.zero.serializabledemo.myjson.model.JsonObject
+xx/com/zero/serializabledemo/serializable/SerializeableUtils.java
+ xx.com.zero.serializabledemo.serializable.SerializeableUtils
+xx/com/zero/serializabledemo/serializable/Person.java
+ xx.com.zero.serializabledemo.serializable.Person
+xx/c1_16_gson/oldcode/gson/gson2/serialiser/BookDeserializer.java
+ xx.c1_16_gson.oldcode.gson.gson2.serialiser.BookDeserializer
+xx/com/zero/serializabledemo/protobuf/TestProtoBuf.java
+ xx.com.zero.serializabledemo.protobuf.TestProtoBuf
+xx/com/zero/serializabledemo/protobuf/_StudentSerializable.java
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$1
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_Course
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_Course$1
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_Course$Builder
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_CourseOrBuilder
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_Student
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_Student$1
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_Student$Builder
+ xx.com.zero.serializabledemo.protobuf._StudentSerializable$_StudentOrBuilder
+xx/com/zero/serializabledemo/myjson/tokenizer/Token.java
+ xx.com.zero.serializabledemo.myjson.tokenizer.Token
+xx_kotlin/generic/TestOutIn.java
+ xx_kotlin.generic.TestOutIn
+xx/com/zero/serializabledemo/myjson/parser/Parser.java
+ xx.com.zero.serializabledemo.myjson.parser.Parser
+ xx.com.zero.serializabledemo.myjson.parser.Parser$1
+xx/c1_16_gson/oldcode/gson/gson2/serialiser/BookSerialiser.java
+ xx.c1_16_gson.oldcode.gson.gson2.serialiser.BookSerialiser
+xx/com/zero/serializabledemo/json/JacksonUtil.java
+ xx.com.zero.serializabledemo.json.JacksonUtil
+xx/rw/GoodsInfo.java
+ xx.rw.GoodsInfo
+xx/SleepTools.java
+ xx.SleepTools
+xx/com/zero/serializabledemo/serializable/Course1.java
+ xx.com.zero.serializabledemo.serializable.Course1
+com/datatype/C4_oop/C4_4_visibility/Visibility.java
+ com.datatype.C4_oop.C4_4_visibility.Visibility
+xx/c1_16_gson/oldcode/gson/gson/bean/Result.java
+ xx.c1_16_gson.oldcode.gson.gson.bean.Result
+xx/com/zero/serializabledemo/serializable/Main.java
+ xx.com.zero.serializabledemo.serializable.Main
+xx/c1_16_gson/oldcode/gson/gson2/Test.java
+ xx.c1_16_gson.oldcode.gson.gson2.Test
+xx/com/zero/serializabledemo/json/Course.java
+ xx.com.zero.serializabledemo.json.Course
+com/datatype/C4_oop/C4_11_innerClass/InnerClassJava.java
+ com.datatype.C4_oop.C4_11_innerClass.InnerClassJava
+ com.datatype.C4_oop.C4_11_innerClass.InnerClassJava$Inner
+xx/c1_16_gson/oldcode/gson/gson2/typeadapter/BookTypeAdapter.java
+ xx.c1_16_gson.oldcode.gson.gson2.typeadapter.BookTypeAdapter
+xx/com/zero/serializabledemo/serializable/Num.java
+ xx.com.zero.serializabledemo.serializable.Num
+xx/c1_16_gson/oldcode/gson/gson/type/TypeClazz.java
+ xx.c1_16_gson.oldcode.gson.gson.type.TypeClazz
+ xx.c1_16_gson.oldcode.gson.gson.type.TypeClazz$1
+xx_kotlin/expand/JavaTestExpand.java
+ xx_kotlin.expand.JavaTestExpand
+xx/com/zero/serializabledemo/json/FastJsonTest.java
+ xx.com.zero.serializabledemo.json.FastJsonTest
 test/Parent.java
  test.Parent
 xx/rw/BusiApp.java
  xx.rw.BusiApp
  xx.rw.BusiApp$GetThread
  xx.rw.BusiApp$SetThread
-xx/rw/UseSyn.java
- xx.rw.UseSyn
-com/datatype/C10_java_and_kotlin/C10_6_BOX/BoxIf2.java
- com.datatype.C10_java_and_kotlin.C10_6_BOX.BoxIf2
+xx/c1_16_gson/oldcode/gson/gson3/bean/User.java
+ xx.c1_16_gson.oldcode.gson.gson3.bean.User
+xx/c1_16_gson/oldcode/gson/gson/bean/ClassRoom.java
+ xx.c1_16_gson.oldcode.gson.gson.bean.ClassRoom
+ xx.c1_16_gson.oldcode.gson.gson.bean.ClassRoom$User
+xx/com/zero/serializabledemo/protobuf/AddressBookProtos.java
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$1
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$AddressBook
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$AddressBook$1
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$AddressBook$Builder
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$AddressBookOrBuilder
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$1
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$Builder
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$PhoneNumber
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$PhoneNumber$1
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$PhoneNumber$Builder
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$PhoneNumberOrBuilder
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$PhoneType
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$Person$PhoneType$1
+ xx.com.zero.serializabledemo.protobuf.AddressBookProtos$PersonOrBuilder
 test/followme/DoubleUtil.java
  test.followme.DoubleUtil
-xx_kotlin/expand/JavaTestExpand.java
- xx_kotlin.expand.JavaTestExpand
-xx_kotlin/generic/TestOutIn.java
- xx_kotlin.generic.TestOutIn
+xx/com/zero/serializabledemo/json/GsonBean.java
+ xx.com.zero.serializabledemo.json.GsonBean
+ xx.com.zero.serializabledemo.json.GsonBean$ArraysBean
+ xx.com.zero.serializabledemo.json.GsonBean$InnerclassBean
+com/datatype/C2/Child.java
+ com.datatype.C2.Child
+xx/com/zero/serializabledemo/serializable/Student1.java
+ xx.com.zero.serializabledemo.serializable.Student1
+xx/com/zero/serializabledemo/serializable/SingleTest.java
+ xx.com.zero.serializabledemo.serializable.Single
+ xx.com.zero.serializabledemo.serializable.SingleTest
+xx/thread_05_/AQS/SelfLock.java
+ xx.thread_05_.AQS.SelfLock
+ xx.thread_05_.AQS.SelfLock$1
+ xx.thread_05_.AQS.SelfLock$Sync
+xx/c1_1_generic_reflect/com/enjoy/reflect/type/genericArrayType/TestType.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.genericArrayType.TestType
+com/datatype/C4_oop/C4_5_object/ObjJava.java
+ com.datatype.C4_oop.C4_5_object.ObjJava
+xx/c1_16_gson/oldcode/gson/gson3/bean/Result.java
+ xx.c1_16_gson.oldcode.gson.gson3.bean.Result
+test/CharAdapter.java
+ test.CharAdapter
+xx/c1_16_gson/oldcode/gson/gson2/bean/Book.java
+ xx.c1_16_gson.oldcode.gson.gson2.bean.Book
+xx/com/zero/serializabledemo/myjson/tokenizer/CharReader.java
+ xx.com.zero.serializabledemo.myjson.tokenizer.CharReader
+xx/com/zero/serializabledemo/myjson/JsonUtils.java
+ xx.com.zero.serializabledemo.myjson.JsonUtils
+xx/c1_16_gson/oldcode/gson/gson2/typeadapter/StringAdapter.java
+ xx.c1_16_gson.oldcode.gson.gson2.typeadapter.StringAdapter
+xx/com/zero/serializabledemo/json/SimpleGsonBean.java
+ xx.com.zero.serializabledemo.json.SimpleGsonBean
+com/datatype/C2/Parent.java
+ com.datatype.C2.Parent
+xx/com/zero/serializabledemo/serializable/Course.java
+ xx.com.zero.serializabledemo.serializable.Course
+ xx.com.zero.serializabledemo.serializable.Course$A
+ xx.com.zero.serializabledemo.serializable.Course$B
+xx/c1_16_gson/oldcode/gson/gson/type/ParameterizedTypeImpl.java
+ xx.c1_16_gson.oldcode.gson.gson.type.ParameterizedTypeImpl
+xx/com/zero/serializabledemo/myjson/tokenizer/TokenList.java
+ xx.com.zero.serializabledemo.myjson.tokenizer.TokenList
+xx/c1_16_gson/oldcode/gson/gson3/filter/ExclusionStrategySample.java
+ xx.c1_16_gson.oldcode.gson.gson3.filter.ExclusionStrategySample
+ xx.c1_16_gson.oldcode.gson.gson3.filter.ExclusionStrategySample$1
+ xx.c1_16_gson.oldcode.gson.gson3.filter.ExclusionStrategySample$2
+xx/com/zero/serializabledemo/myjson/tokenizer/Tokenizer.java
+ xx.com.zero.serializabledemo.myjson.tokenizer.Tokenizer
+com/datatype/C3/C3_4_setter_getter/JavaA.java
+ com.datatype.C3.C3_4_setter_getter.JavaA
+xx/com/zero/serializabledemo/serializable/Student.java
+ xx.com.zero.serializabledemo.serializable.Student
+com/datatype/C4_oop/C4_8_extend/useExtendsInJava.java
+ com.datatype.C4_oop.C4_8_extend.useExtendsInJava
+xx/c1_16_gson/oldcode/gson/gson3/Test.java
+ xx.c1_16_gson.oldcode.gson.gson3.Test
+ xx.c1_16_gson.oldcode.gson.gson3.Test$1
+xx/com/zero/serializabledemo/json/HomeMarqueeModel.java
+ xx.com.zero.serializabledemo.json.HomeMarqueeModel
+ xx.com.zero.serializabledemo.json.HomeMarqueeModel$MarqueeModel
+xx/c1_5_thread/intterupt/SynchronizedBlocked_wait.java
+ xx.c1_5_thread.intterupt.SynchronizedBlocked_wait
+ xx.c1_5_thread.intterupt.SynchronizedBlocked_wait$1
+xx/com/zero/serializabledemo/serializable/Course2.java
+ xx.com.zero.serializabledemo.serializable.Course2
+xx/c1_16_gson/oldcode/gson/gson3/JsonReaderTest.java
+ xx.c1_16_gson.oldcode.gson.gson3.JsonReaderTest
+xx/com/zero/serializabledemo/myjson/tokenizer/TokenType.java
+ xx.com.zero.serializabledemo.myjson.tokenizer.TokenType
+xx/rw/GoodsService.java
+ xx.rw.GoodsService
+xx/com/zero/serializabledemo/gson/GsonTest2.java
+ xx.com.zero.serializabledemo.gson.GsonTest2
+ xx.com.zero.serializabledemo.gson.GsonTest2$1
+ xx.com.zero.serializabledemo.gson.GsonTest2$2
+ xx.com.zero.serializabledemo.gson.GsonTest2$Foo
+xx/com/zero/serializabledemo/myjson/model/JsonArray.java
+ xx.com.zero.serializabledemo.myjson.model.JsonArray
+xx/rw/UseSyn.java
+ xx.rw.UseSyn
+xx/c1_16_gson/oldcode/xxgson/TestGson.java
+ xx.c1_16_gson.oldcode.xxgson.TestGson
+ xx.c1_16_gson.oldcode.xxgson.TestGson$Bean
+xx/c1_1_generic_reflect/com/enjoy/reflect/type/parameterizedType/TestType.java
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.parameterizedType.TestType
+ xx.c1_1_generic_reflect.com.enjoy.reflect.type.parameterizedType.TestType$1

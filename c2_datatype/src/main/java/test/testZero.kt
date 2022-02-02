@@ -13,8 +13,8 @@ fun main() {
 
     val l = "1620792132".toLong()
     println(l)
-    val l2 = "1620792132.00000".toLong()
-    println(l2)
+//    val l2 = "1620792132.00000".toLong()
+//    println(l2)
 //    val gson = GsonBuilder().registerTypeAdapter( String::class.java,CharAdapter())
     val gson = GsonBuilder().registerTypeAdapter(String::class.java, CharJsonDeserializer())
 //然后用上面一行写的gson来序列化和反序列化实体类type
