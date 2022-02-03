@@ -12,7 +12,13 @@ public class HalfAtomicInt {
 
     /*请完成这个递增方法*/
     public void increament() {
-
+        for (;;) {
+            int i = getCount();
+            boolean suc = compareAndSet(i, ++i);
+            if (suc) {
+                break;
+            }
+        }
     }
     
     public int getCount() {
@@ -22,5 +28,4 @@ public class HalfAtomicInt {
     public boolean compareAndSet(int oldValue,int newValue){
         return atomicI.compareAndSet(oldValue,newValue);
     }
-
 }
