@@ -1,5 +1,8 @@
 package xx.c1_5_thread.cn.enjoyedu.concurrent.base.deadlock;
 
+import java.util.Comparator;
+import java.util.concurrent.PriorityBlockingQueue;
+
 /**
  *@author Mark老师   享学课堂 https://enjoy.ke.qq.com 
  *
@@ -56,10 +59,25 @@ public class NormalDeadLock {
 
     public static void main(String[] args) throws InterruptedException {
         //主线程
-        Thread.currentThread().setName("AV");
-        Lance lance = new Lance("Lance");
-        lance.start();
-        lisonDo();
+//        Thread.currentThread().setName("AV");
+//        Lance lance = new Lance("Lance");
+//        lance.start();
+//        lisonDo();
+
+        PriorityBlockingQueue<MyC> queue=new PriorityBlockingQueue<MyC>(100,new Comparator<MyC>(){
+
+            @Override
+            public int compare(MyC o1, MyC o2) {
+                return 0;
+            }
+        });
+        queue.put(new MyC());
+
+        System.out.println(" get nO14");
+    }
+
+    static class MyC{
+
     }
 
 }
