@@ -17,7 +17,22 @@ public class DoubleUtil {
     static  String name;
     public static void main(String[] args) {
 //        System.out.println(Integer.parseInt("1011".split("\\.")[0]));
-        System.out.println((int)(Double.parseDouble("1.11")));
+//        System.out.println((int)(Double.parseDouble("1.11")));
+
+        //0 0.3 0.6 0.9 1.2
+//          System.out.println(CalculateStepSize(1.41414,5));
+          System.out.println(getMinValue(6.0,0.02));
+
+    }
+
+    private static double getMinValue(double min, double prettyStep) {
+        return Math.floor(min / prettyStep) * prettyStep;
+    }
+    private static double CalculateStepSize(double range, int tickCount) {
+        double unRoundedTickSize = range / (tickCount - 1);
+        double x = Math.ceil(Math.log10(unRoundedTickSize) - 1);
+        double pow10x = Math.pow(10, x);
+        return Math.ceil(unRoundedTickSize / pow10x) * pow10x;
     }
     public static double parseDouble(String parserDouble) {
         try {
@@ -61,6 +76,9 @@ public class DoubleUtil {
                 formatDecimalString = "######0.000000";
                 break;
             case 7:
+                formatDecimalString = "######0.0000000";
+                break;
+            case 8:
                 formatDecimalString = "######0.0000000";
                 break;
             default:
@@ -260,6 +278,23 @@ public class DoubleUtil {
             return -1;
         } else {
             return 0;
+        }
+    }
+
+    /**
+     * 根据精度得到一个小数的字符串
+     *
+     * @param num    double小数
+     * @param digits 精度
+     */
+    public static String getStringByDigits(double num, int digits) {
+        if (digits == 0) {
+            return (int) num + "";
+        } else {
+            NumberFormat instance = DoubleUtil.formatPattern();
+            instance.setMinimumFractionDigits(digits);
+            instance.setMaximumFractionDigits(digits);
+            return instance.format(num).replace(",", "");
         }
     }
 

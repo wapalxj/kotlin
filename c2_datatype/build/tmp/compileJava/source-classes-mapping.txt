@@ -2,8 +2,9 @@ TestType.java
  SampleClass
  TestType
  Wrapper
-xx_kotlin/generic/TestOutIn.java
- xx_kotlin.generic.TestOutIn
+xx/c1_5_thread/intterupt/SynchronizedBlocked.java
+ xx.c1_5_thread.intterupt.SynchronizedBlocked
+ xx.c1_5_thread.intterupt.SynchronizedBlocked$1
 com/datatype/C2/Child.java
  com.datatype.C2.Child
 com/datatype/C4_oop/C4_7_overload/UserKotlinOverloadInJava.java
@@ -42,6 +43,11 @@ com/datatype/C3/C3_4_setter_getter/JavaA.java
  com.datatype.C3.C3_4_setter_getter.JavaA
 com/datatype/C4_oop/C4_8_extend/useExtendsInJava.java
  com.datatype.C4_oop.C4_8_extend.useExtendsInJava
+xx_kotlin/generic/TestOutIn.java
+ xx_kotlin.generic.TestOutIn
+xx/c1_5_thread/intterupt/SynchronizedBlocked_wait.java
+ xx.c1_5_thread.intterupt.SynchronizedBlocked_wait
+ xx.c1_5_thread.intterupt.SynchronizedBlocked_wait$1
 xx_kotlin/kt/TestKt.java
  xx_kotlin.kt.TestKt
 xx/rw/GoodsService.java
@@ -68,9 +74,5 @@ test/followme/DoubleUtil.java
  test.followme.DoubleUtil
 xx_kotlin/expand/JavaTestExpand.java
  xx_kotlin.expand.JavaTestExpand
-xx/c1_5_thread/intterupt/SynchronizedBlocked.java
- xx.c1_5_thread.intterupt.SynchronizedBlocked
- xx.c1_5_thread.intterupt.SynchronizedBlocked$1
-xx/c1_5_thread/intterupt/SynchronizedBlocked_wait.java
- xx.c1_5_thread.intterupt.SynchronizedBlocked_wait
- xx.c1_5_thread.intterupt.SynchronizedBlocked_wait$1
+test/followme/Testnull.java
+ test.followme.Testnull
