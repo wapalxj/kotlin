@@ -6,7 +6,7 @@ import kotlin.math.absoluteValue
 
 
 object MakeArray {
-    const val ARRAY_LENGTH: Int = 40000000
+    const val ARRAY_LENGTH: Int = 4_000
     const val THRESHOLD: Int = 47
 
     fun makeArray(): IntArray {

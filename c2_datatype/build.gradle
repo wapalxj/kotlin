@@ -35,6 +35,7 @@ apply plugin: 'kotlin-allopen'
 //注解处理器
 apply plugin: 'kotlin-kapt'
 
+
 noArg {
     annotation("com.datatype.C4_oop.annotation.PoKo")
 }
@@ -74,6 +75,16 @@ dependencies {
     implementation"com.google.code.gson:gson:2.8.4"
     implementation "io.reactivex.rxjava3:rxjava:3.0.2"
     implementation "io.reactivex.rxjava3:rxjava:3.0.2"
+
+    implementation 'com.google.protobuf:protobuf-java:3.4.0'
+
+    //濡備綍閰嶇疆jackson https://mvnrepository.com/search?q=jackson
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.9.8'
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.9.8'
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.9.8'
+
+    implementation 'com.alibaba:fastjson:1.2.57'
+
 }
 
 compileKotlin {

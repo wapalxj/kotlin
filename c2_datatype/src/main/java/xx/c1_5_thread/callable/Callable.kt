@@ -11,23 +11,39 @@ fun main() {
     val task = FutureTask(callable)
     Thread(task).start()
 
-    Thread.sleep(100)
-    if (Random.nextInt(100)>80) {
+    if (Random.nextInt(100) > 80) {
         println("get============会阻塞在这里")
         println("get============${task.get()}")
-    }else{
-        task.cancel(true)
+    } else {
         println("cancel.....")
+        task.cancel(true)
     }
+    Thread.sleep(2000)
 }
 
 class UserCallable : Callable<Int> {
+    private var sum = 0
     override fun call(): Int {
         println("start================")
-        Thread.sleep(2000)
-        val sum = (0..2000).sumBy {
-            println("add============$it")
-            it
+//        try {
+//            Thread.sleep(2000)//可以测试cancel()的中断
+//        } catch (e: Exception) {
+//            e.printStackTrace()
+//            println("Exception================${e.message}")
+//        }
+//
+
+
+        for (i in 0..2000) {
+            if (Thread.currentThread().isInterrupted) {
+                //kotlin 测试流程正常，但是这里不打印???
+                println("Callable====线程中断")
+                Thread.sleep(2000)
+                return -1
+            }
+            sum += i
+            println("add============$i")
+            Thread.sleep(1)
         }
         println("end============$sum")
         return sum

@@ -24,7 +24,8 @@ fun sumNormal(src:IntArray) {
     val start = System.currentTimeMillis()
     var count=0L
     for (i in src.indices) {
-//        MakeArray.ms(1)
+        //添加休眠，和fork-join差距更大
+        MakeArray.ms(1)
         count = count + src[i]
     }
     println("sumNormal--The count is $count spend time ${System.currentTimeMillis() - start}ms")

@@ -42,7 +42,7 @@ fun main() {
     }
 }
 
-class FindDirFiles(val path: File) : RecursiveAction() {
+class FindDirFiles(private val path: File) : RecursiveAction() {
     override fun compute() {
         val subTasks = arrayListOf<FindDirFiles>()
         val files = path.listFiles()
