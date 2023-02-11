@@ -8,7 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Android/.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Android/.gradle/wrapper/dists/gradle-7.2-bin/2dnblmf4td7x66yl1d74lt32g/gradle-7.2" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>

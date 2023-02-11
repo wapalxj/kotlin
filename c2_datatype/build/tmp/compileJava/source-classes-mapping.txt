@@ -609,3 +609,11 @@ xx/c1_5_thread/cn/enjoyedu/concurrent/theory/vola/VolatileCase.java
 xx/c1_5_thread/cn/enjoyedu/concurrent/theory/SimplOper.java
  xx.c1_5_thread.cn.enjoyedu.concurrent.theory.SimplOper
  xx.c1_5_thread.cn.enjoyedu.concurrent.theory.SimplOper$Count
+xx/myleakcanary/src/Utils.java
+ xx.myleakcanary.src.Utils
+xx/myleakcanary/src/KeyWeakReference.java
+ xx.myleakcanary.src.KeyWeakReference
+xx/myleakcanary/src/leakcanaryTest.java
+ xx.myleakcanary.src.leakcanaryTest
+xx/myleakcanary/src/Watcher.java
+ xx.myleakcanary.src.Watcher
