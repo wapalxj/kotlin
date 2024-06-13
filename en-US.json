@@ -228,7 +228,7 @@
         "withdraw": "Withdraw"
       },
       "label": {
-        "account_balance": "Account \" balance",
+        "account_balance": "Account \n balance",
         "account_name": "Account Name",
         "bal": "BAL",
         "balance": "Balance",
